@@ -253,9 +253,9 @@ If you use this work in your research, please cite:
 bibtex
 @misc{economic_resilience_prediction_2024,
   title={Economic Resilience Prediction: A Machine Learning Breakthrough},
-  author={[Your Name]},
-  year={2024},
-  url={https://github.com/[your-username]/modern-economic-resilience},
+  author={Laura Rojas},
+  year={2025},
+  url={https://github.com/lamarojas/modern-economic-resilience},
   note={Achieving 99.8\% accuracy in economic stability prediction}
 }
 
