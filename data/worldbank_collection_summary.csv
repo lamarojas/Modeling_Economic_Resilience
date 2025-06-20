@@ -1,0 +1,27 @@
+category,indicator_code,indicator_name,status,records,countries,coverage_rate,quality_score
+Core Economic,NY.GDP.PCAP.KD,gdp_per_capita_constant,success,1292,38,1.0,1.0
+Core Economic,NY.GDP.MKTP.KD.ZG,gdp_growth_annual,success,1290,38,1.0,1.0
+Core Economic,NY.GDP.PCAP.KD.ZG,gdp_per_capita_growth,success,1290,38,1.0,1.0
+Core Economic,NY.GDP.MKTP.PP.KD,gdp_ppp_constant,success,1292,38,1.0,1.0
+Investment & Savings,NE.GDI.TOTL.ZS,gross_investment_gdp,success,1286,38,1.0,1.0
+Investment & Savings,NY.GNS.ICTR.ZS,gross_savings_gdp,success,1221,38,1.0,1.0
+Investment & Savings,NE.GDI.FPRV.ZS,private_investment_gdp,success,321,12,0.3157894736842105,0.48855263157894735
+Investment & Savings,BX.KLT.DINV.WD.GD.ZS,fdi_net_inflows_gdp,success,1287,38,1.0,1.0
+Trade & Openness,NE.TRD.GNFS.ZS,trade_gdp,success,1286,38,1.0,1.0
+Trade & Openness,NE.EXP.GNFS.ZS,exports_gdp,success,1286,38,1.0,1.0
+Trade & Openness,NE.IMP.GNFS.ZS,imports_gdp,success,1286,38,1.0,1.0
+Trade & Openness,TM.TAX.MRCH.WM.AR.ZS,tariff_rate_applied_weighted,success,1008,38,1.0,0.9652631578947368
+Financial Development,FS.AST.DOMS.GD.ZS,domestic_credit_private_gdp,success,307,15,0.39473684210526316,0.48098245614035084
+Financial Development,FB.BNK.CAPA.ZS,bank_capital_assets_ratio,success,563,37,0.9736842105263158,0.8337411095305832
+Financial Development,CM.MKT.LCAP.GD.ZS,market_cap_gdp,success,1034,38,1.0,0.9721052631578946
+Financial Development,FR.INR.RINR,real_interest_rate,success,738,27,0.7105263157894737,0.7707017543859649
+Government & Fiscal,GC.DOD.TOTL.GD.ZS,government_debt_gdp,success,719,36,0.9473684210526315,0.8628801169590643
+Government & Fiscal,GC.TAX.TOTL.GD.ZS,tax_revenue_gdp,success,1117,38,1.0,0.9939473684210526
+Government & Fiscal,GC.XPN.TOTL.GD.ZS,government_expenditure_gdp,success,1111,37,0.9736842105263158,0.9815789473684211
+Labor & Social,SL.UEM.TOTL.ZS,unemployment_total,success,1254,38,1.0,1.0
+Labor & Social,SE.TER.ENRR,tertiary_education_enrollment,success,1085,38,1.0,0.9855263157894736
+Labor & Social,SP.POP.GROW,population_growth,success,1291,38,1.0,1.0
+Labor & Social,SP.URB.TOTL.IN.ZS,urban_population_pct,success,1292,38,1.0,1.0
+Innovation & Tech,GB.XPD.RSDV.GD.ZS,research_development_gdp,success,894,38,1.0,0.9352631578947368
+Innovation & Tech,IP.PAT.RESD,patent_applications_residents,success,1172,38,1.0,1.0
+Innovation & Tech,IT.NET.USER.ZS,internet_users_pct,success,1266,38,1.0,1.0
