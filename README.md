@@ -1,4 +1,5 @@
-# Economic Resilience Prediction: A Machine Learning Approach
+# Modern Economic Resilience: Predicting National Economic Stability During Global Shocks 
+### A Machine Learning Approach
 #### Predicting Economic Growth Stability with 99.8% Accuracy
 
 ## Project Overview
