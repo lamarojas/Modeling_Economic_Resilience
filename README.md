@@ -1,9 +1,16 @@
-# Modern Economic Resilience: Predicting National Economic Stability During Global Shocks 
-### A Machine Learning Approach
-#### Predicting Economic Growth Stability with 99.8% Accuracy
+# Modeling Economic Resilience and Systemic Vulnerability
+### A Machine Learning Exploration of Economic Stability and the Limits of Growth
 
 ## Project Overview
-This repository contains a machine learning approach to predicting economic stability that achieves 99.8% accuracy in forecasting economic growth stability patterns. Our methodology seeks to transform economic crisis management from reactive response to proactive prevention.
+This repository presents a data-driven approach to understanding economic resilience — the ability of national economies to sustain stability and well-being during major global shocks.
+Using machine learning models trained on historical and contemporary macroeconomic data, the project predicts economic stability patterns with high accuracy while critically examining how growth-centric systems generate systemic fragility.
+
+Rather than celebrating prediction as an end in itself, the project uses it as a tool for reflection:
+- to map the limits of GDP-based analysis,
+- to compare structural vulnerabilities across countries, and
+- to open space for alternative frameworks of resilience rooted in post-growth and degrowth economics.
+
+Our long-term aim is to move from predicting instability to rethinking the economic architectures that create it.
 
 ### Key Achievement
 - R² = 0.998: accuracy for economic growth stability
@@ -14,7 +21,7 @@ This repository contains a machine learning approach to predicting economic stab
 ### Innovation Breakthrough
 Rather than chasing countries with the highest growth spikes, I trained models to recognize those with the most consistent, stable growth over time . The growth_stability_target.variable alone drove a near‑perfect fit (R² = 0.998) in XGBoost, proving that long-term stability is a powerful signal of economic resilience
 
-### Business Impact
+### Impact
 - Early Warning System: 6-18 month advance prediction of economic instability
 - Crisis Prevention: Potential to prevent billions in economic losses
 - Policy Guidance: Evidence-based recommendations for economic interventions
@@ -172,10 +179,6 @@ python
 - Early Warning Dashboard: Real-time economic stability monitoring
 - Policy Simulation: Test intervention scenarios before implementation
 - Resource Allocation: Prioritize efforts based on predicted vulnerability
-#### Financial Institutions
-- Sovereign Risk Assessment: Enhanced country risk evaluation
-- Investment Strategy: Economic stability-informed portfolio decisions
-- Stress Testing: Model-based scenario analysis for risk management
 #### International Organizations
 - Aid Allocation: Data-driven assistance targeting
 - Crisis Prevention: Proactive intervention planning
@@ -229,8 +232,8 @@ This notebook contains the core innovation that enabled 99.8% accuracy:
 - API Development: Integration with existing economic monitoring systems
 
 ### Contributing
-We welcome contributions to improve the model and extend its applications:
-Areas for Contribution
+We welcome contributions to improve the model and extend its applications. 
+
 ### Additional economic indicators integration
 - Alternative model architectures
 - Real-time data pipeline development
