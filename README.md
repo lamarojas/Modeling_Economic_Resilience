@@ -249,6 +249,8 @@ We welcome contributions to improve the model and extend its applications.
 - World Bank for comprehensive economic indicators
 - Zagler, M. Empirical evidence on growth and business cycles. Empirica 44, 547–566 (2017). https://doi.org/10.1007/s10663-016-9336-4
 - Yaya, A. (2024). Productive Capacities, Economic Vulnerability and Growth Volatility in Sub-Saharan Africa. IMF Working Papers, 2024(169), A001. Retrieved Jun 20, 2025, from https://doi.org/10.5089/9798400286308.001.A001
+- Eichengreen, B., Park, D., & Shin, K. (2024). Economic resilience: Why some countries recover more robustly than others from shocks.
+Economic Modelling, 134, 106748. https://doi.org/10.1016/j.econmod.2024.106748
 
 
 
